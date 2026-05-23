@@ -1,11 +1,11 @@
 const questions = [
   {
-    question: "What does HTML stand for?",
+    question: "What am I doing?",
     choices: [
-      "Hyper Text Markup Language",
-      "High Tech Modern Language",
-      "Home Tool Markup Language",
-      "Hyperloop Machine Language",
+      "learning",
+      "wasting time",
+      "not sure",
+      "all of the above",
     ],
     answer: 0,
   },
